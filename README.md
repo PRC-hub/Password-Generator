@@ -17,4 +17,4 @@ In this project user has to create a password generator, which allows the users 
 
   ## Output
 
-![expected output](vhttps://github.com/PRC-hub/Password-Generator/blob/main/passwordGeneratorOutput.png)
+![expected output](https://github.com/PRC-hub/Password-Generator/blob/main/passwordGeneratorOutput.png)
