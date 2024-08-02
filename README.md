@@ -14,3 +14,7 @@ In this project user has to create a password generator, which allows the users 
 - HTML
 - Tailwind CSS
 - JavaScript
+
+  ## Output
+
+![expected output](/javascript/01%20Password%20Generator/output/passwordGeneratorOutput.png)
